@@ -42,7 +42,7 @@ export default function Home() {
       <nav className="nav" aria-label="Main navigation">
         <div className="nav-inner shell">
           <a className="wordmark" href="#top">
-            AT<span>.</span>
+            alithv<span>.</span>
           </a>
           <div className="nav-links">
             <a href="#work">Work</a>
