@@ -1,6 +1,5 @@
 import Image from "next/image";
 import CursorFollower from "./cursor-follower";
-import ThemeToggle from "./theme-toggle";
 
 const skillGroups = [
   { label: "Frontend", items: "JavaScript, TypeScript, React.js, Redux, Jest" },
@@ -52,7 +51,7 @@ export default function Home() {
           </div>
           <div className="nav-tools">
             <span className="availability">Open to conversations</span>
-            <ThemeToggle />
+            {/* <ThemeToggle /> */}
           </div>
         </div>
       </nav>
